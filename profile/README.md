@@ -1,6 +1,6 @@
 # Factor House on GitHub
 
-![factorhouse](github-banner.png)
+![factorhouse](linkedin-banner.png)
 
 Real-time systems are complex. We build tools you can trust. Welcome to **Factor House**.
 
