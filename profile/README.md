@@ -10,7 +10,7 @@ Public artifacts, open source tools, libraries, and repos that support our produ
 
 ### Public Artifact Repos
 
-Our delivery pipelines and deployment blueprints for proprietary software. Includes:
+Our delivery pipelines and deployment blueprints for our products. Includes:
 
 - [`factorhouse-local`](https://github.com/factorhouse/factorhouse-local): Local environment for running Factor House products (Kpow and Flex) along with supporting infrastructure using Docker Compose
 - [`kpow`](https://github.com/factorhouse/kpow): Docker/JAR releases of our enterprise toolkit
