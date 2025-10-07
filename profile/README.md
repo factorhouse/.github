@@ -26,6 +26,7 @@ Thoughtful, minimal, and purpose-built, these are libraries created to solve dev
 - [`hsx`](https://github.com/factorhouse/hsx): a ClojureScript library for writing React components using Hiccup syntax
 - [`rfx`](https://github.com/factorhouse/rfx): a modern, API-compatible drop-in replacement for re-frame, designed for use with React 18+ and no dependency on Reagent
 - [`slipway`](https://github.com/factorhouse/slipway): A Clojure Companion to Jetty
+- [`cronut`](https://github.com/factorhouse/cronut): A Clojure Companion to Quartz Scheduler
 
 > These projects welcome fixes and small enhancements, but roadmap direction is internally led.
 
