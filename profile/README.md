@@ -1,30 +1,30 @@
 # Factor House on GitHub
 
-<a href="https://factorhouse.io/">![Factor House logo banner](linkedin-banner.png)</a>
+<a href="https://factorhouse.io/">![Factor House logo banner](banner.png)</a>
 
 Real-time systems are complex. We build tools you can trust. Welcome to **Factor House**.
 
 ## What You’ll Find Here
 
-Public artifacts, open source tools, libraries, and repos that support our products and and reflect our commitment to helping data engineers work confidently in distributed systems.
+Public artifacts, open source tools, libraries, and repos that support our products and reflect our commitment to helping data engineers work confidently in distributed systems.
 
 ### Public Artifact Repos
 
 Our delivery pipelines and deployment blueprints for our products. Includes:
 
-- [`factorhouse-local`](https://github.com/factorhouse/factorhouse-local): Local environment for running Factor House products (Kpow and Flex) along with supporting infrastructure using Docker Compose
+- [`factorhouse-local`](https://github.com/factorhouse/factorhouse-local): Local environment for running a production grade data platform (Kafka, Flink, Pinot, Marquez and Iceberg) and Factor House products (Kpow and Flex), along with supporting infrastructure using Docker Compose
 - [`kpow`](https://github.com/factorhouse/kpow): Docker/JAR releases of our enterprise toolkit
 - [`flex`](https://github.com/factorhouse/flex): Docker/JAR releases of our enterprise toolkit
 - [`examples`](https://github.com/factorhouse/examples): Example projects and integration guides for using Kpow and Flex with modern data tools like Kafka, Flink, and Iceberg.
 
-> These repos are **not open to contributions**, but are available for transparency and usability.
+> These repos are **not open to contributions**, but are available for transparency and ease-of-use.
 
 ### Maintainer-Led Open Source Libraries
 
 Thoughtful, minimal, and purpose-built, these are libraries created to solve developer problems, maintained by our team. Includes:
 
 - [`hsx`](https://github.com/factorhouse/hsx): a ClojureScript library for writing React components using Hiccup syntax
-- [`rfx`](https://github.com/factorhouse/rfx): a modern, API-compatible drop-in replacement for re-frame, designed for use with React 18+ and no dependency on Reagent
+- [`rfx`](https://github.com/factorhouse/rfx): a modern, API-compatible drop-in replacement for re-frame, designed for use with React 18+ with no dependency on Reagent
 - [`slipway`](https://github.com/factorhouse/slipway): A Clojure Companion to Jetty
 - [`cronut`](https://github.com/factorhouse/cronut): A Clojure Companion to Quartz Scheduler
 
@@ -37,10 +37,13 @@ Looking to explore?
 - Browse our **pinned repositories**
 - Visit our [docs](https://docs.factorhouse.io) for detailed product usage
 - Head to our [website](https://factorhouse.io) for more on who we are and what we do
+- Provision a free Trial or Community license from our [license manager](https://account.factorhouse.io)
+- Look at our [public roadmap](https://factorhouse.io/roadmap/) to see what we're working on
+- Join our [Slack](https://join.slack.com/t/factorhousecommunity/shared_invite/zt-39x5pms9g-iMBphNvhS2eGrT_6Pl_jkw) to hang out with us and the growing community of real-time builders
 
 ## More About Us
 
-Factor House builds the tools that accelerate engineers and organisations working with streaming technology, including **Apache Kafka** and **Apache Flink**. We’re the team behind [Kpow](https://factorhouse.io/kpow), the ultimate engineering toolkit for Apache Kafka, and a growing collection of open source projects.
+Factor House builds the tools that accelerate engineers and organisations working with **Apache Kafka®** and **Apache Flink®** to build real-time distributed systems. We’re the team behind [Kpow](https://factorhouse.io/kpow), the ultimate engineering toolkit for Kafka, and a growing collection of open source projects.
 
 ---
 
