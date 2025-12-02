@@ -1,6 +1,6 @@
 # Factor House on GitHub
 
-<a href="https://factorhouse.io/">![Factor House logo banner](linkedin-banner.png)</a>
+<img width="1128" height="191" alt="LinkedIn Business (1)" src="https://github.com/user-attachments/assets/cba29590-bcf5-4ba3-8c58-88f8aff199dc" />
 
 Real-time systems are complex. We build tools you can trust. Welcome to **Factor House**.
 
