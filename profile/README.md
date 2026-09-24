@@ -12,7 +12,6 @@ Public artifacts, open source tools, libraries, and repos that support our produ
 
 Our delivery pipelines and deployment blueprints for our products. Includes:
 
-- [`factorhouse-local`](https://github.com/factorhouse/factorhouse-local): Local environment for running Factor House products (Kpow and Flex) along with supporting infrastructure using Docker Compose
 - [`kpow`](https://github.com/factorhouse/kpow): Docker/JAR releases of our enterprise toolkit for Apache Kafka
 - [`flex`](https://github.com/factorhouse/flex): Docker/JAR releases of our enterprise toolkit for Apache Flink
 - [`examples`](https://github.com/factorhouse/examples): Example projects and integration guides for using Kpow and Flex with modern data tools like Kafka, Flink, and Iceberg.
